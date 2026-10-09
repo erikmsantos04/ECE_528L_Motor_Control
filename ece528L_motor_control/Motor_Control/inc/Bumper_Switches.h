@@ -83,6 +83,8 @@ void Bumper_Switches_Init(void(*task)(uint8_t));
  *
  * @return uint8_t The 6-bit positive logic result representing the current state of the switches (0 to 63).
  */
+
+
 uint8_t Bumper_Read(void);
 
 #endif /* INC_BUMPER_SWITCHES_H_ */
