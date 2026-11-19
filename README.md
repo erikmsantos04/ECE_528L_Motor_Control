@@ -20,3 +20,9 @@ The Motor Control lab interfaces with the following:
 - TEK00005.png - 0 deg nno cursor 
 - TEK00006.png - Bumper 0 with LED 
 
+## Author Contribution
+- Code : Daniel Adrayan and Erik Santos
+- Images : Daniel Adrayan
+
+## References
+- Lab 1 Documentation
